@@ -1,0 +1,13 @@
+Metric,Raw Dataset,Cleaned Dataset
+Total Rows (Deliveries),"295,732","295,732"
+Total Columns,64,80
+Duplicate Rows,0,0
+Missing / Null Cells,"4,196,750","4,784,062"
+Missing Cells %,22.17%,20.22%
+Unique Matches,1243,1243
+Unique Seasons,19,19
+Unique Teams,19,19
+Unique Batters,738,738
+Unique Bowlers,577,577
+Unique Venues,60,60
+Date Span,2008-04-18 to 2026-05-31,2008-04-18 to 2026-05-31

@@ -1,0 +1,9 @@
+extra_type,deliveries,extra_runs
+wides,9875,11793
+legbyes,4394,5736
+byes,730,1344
+noballs,1199,1234
+"byes, noballs",15,60
+"legbyes, noballs",12,30
+"penalty, wides",1,7
+penalty,1,5
